@@ -1,0 +1,6 @@
+#Compiled Python Extensions
+*.pyc
+
+#Spyder Project Settings
+#.spyproject
+
